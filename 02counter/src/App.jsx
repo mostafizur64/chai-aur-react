@@ -9,7 +9,7 @@ function App() {
     if (counter === 21) return;
     setCounter((prevCounter) => prevCounter + 1);
     setCounter((prevCounter) => prevCounter + 1);
-    setCounter((prevCounter) => prevCounter + 1); 
+    setCounter((prevCounter) => prevCounter + 1);  
   
   };
   const removeValue = () => {
