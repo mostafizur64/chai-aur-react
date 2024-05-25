@@ -32,7 +32,7 @@ function App() {
           ? { ...prevTodo, completed: !prevTodo.completed }
           : prevTodo
       )
-    );
+    ); 
   };
 
   useEffect(() => {
